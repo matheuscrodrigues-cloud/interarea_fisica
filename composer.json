@@ -1,0 +1,16 @@
+{
+    "name": "derick-matheus/qualidade-agua",
+    "description": "Laboratorio digital de qualidade da agua — trabalho interarea SENAI (Derick e Matheus)",
+    "type": "project",
+    "require": {
+        "php": ">=8.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12"
+    },
+    "autoload": {
+        "classmap": [
+            "Controller/"
+        ]
+    }
+}
