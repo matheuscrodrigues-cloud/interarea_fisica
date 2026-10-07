@@ -1,0 +1,24 @@
+Execução real: 06/10/2026 (America/Bahia)
+PHPUnit 12.5.38 by Sebastian Bergmann and contributors.
+
+
+
+Runtime:       PHP 8.4.26
+Configuration: phpunit.xml
+
+
+...................                                               19 / 19 (100%)
+
+
+
+Time: 00:00.021, Memory: 16.00 MB
+
+
+
+OK (19 tests, 67 assertions)
+
+
+Cobertura de linhas: 97.37% (111/114); somente classes de cálculo, mínimo 80%.
+OK: quatro atividades em desktop e celular (390px), sem overflow; grade 3x3, determinante, amostra, biofiltro com zero, sistema 3x3 e navegação por teclado verificados. Sem erros JavaScript ou mensagens PHP.
+
+Herd: execução confirmada pelo usuário. Servidores locais de prévia e suíte de testes conferidos em PHP 8.4.26.
